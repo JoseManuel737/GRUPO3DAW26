@@ -1,5 +1,10 @@
 === VALORACIÓN INTEGRANTE 1 ===
-[José Manuel]:
+[José Manuel]: La realización de este proyecto en equipo ha sido una experiencia muy enriquecedora para comprender de forma práctica el funcionamiento de la arquitectura modelo-vista-controlador.
+En mi caso, me he encargado de la estructuración inicial del repositorio en GitHub, la organización de las carpetas de vistas y front-end, y la sincronización general de los componentes visuales.
+Trabajar mediante control de versiones nos ha ayudado a coordinarnos bien, resolver conflictos de integración y ver el desarrollo de la aplicación web de principio a fin.
 
 === VALORACIÓN INTEGRANTE 2 ===
-[Ismael]:
+[Ismael]:La realización de este proyecto me ha permitido adquirir conocimientos clave sobre bases de datos relacionales y despliegue en entornos cloud.
+Me he encargado de la creación de la base de datos MySQL en Alwaysdata, la ejecución de scripts SQL, la configuración de la conexión backend y el despliegue
+del proyecto mediante acceso SSH y control de versiones.  Además de la configuración de la conexión de base de datos.
+Considero que el reparto de tareas ha sido equilibrado y el resultado final cumple perfectamente con todos los objetivos planteados en la práctica.
