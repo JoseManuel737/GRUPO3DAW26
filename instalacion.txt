@@ -1,0 +1,19 @@
+
+GUÍA DE INSTALACIÓN Y DESPLIEGUE - GRUPO 3
+
+1. CREACIÓN DE LA BASE DE DATOS
+- Hosting: Alwaysdata
+- Nombre de la base de datos: alimentos_alimentos32026
+- Servidor MySQL: mysql-alimentos.alwaysdata.net
+- Pasos realizados:
+  1º Acceso al panel de Alwaysdata > Bases de datos > MySQL.
+  2º Creación de la base de datos con el nombre indicado.
+  3º Apertura de phpMyAdmin y ejecución del script SQL para la creación de la tabla 'alimentos'.
+
+2. COMANDOS SSH Y CLONACIÓN DEL REPOSITORIO
+- Conexión al servidor mediante SSH:
+  ssh alimentos@ssh-alimentos.alwaysdata.net
+- Navegación a la carpeta pública del proyecto y clonación del repositorio de GitHub:
+  cd www/
+  git clone https://github.com/JoseManuel737/GRUPO3DAW26.git .
+
